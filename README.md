@@ -26,9 +26,9 @@ I’m a software engineer passionate about building simple, scalable, and impact
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Savinda96&show_icons=true&theme=default&hide_title=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Savinda96&layout=compact&theme=default&count_private=true)  
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-light&count_private=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Savinda96&theme=github-light&count_private=true)
 
 ---
 
