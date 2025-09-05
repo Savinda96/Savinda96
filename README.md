@@ -22,21 +22,12 @@ I’m a software engineer passionate about building simple, scalable, and impact
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?logo=mongodb&logoColor=47A248)
 ![AWS](https://img.shields.io/badge/-AWS-333?logo=amazon-aws&logoColor=FF9900)
 
----
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Savinda96&show_icons=true&theme=default&hide_title=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Savinda96&layout=compact&theme=default&count_private=true)  
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Savinda96&theme=github-light&count_private=true)
-
----
 
 ## Current Projects & Interests
-- 🚀 Building tools that simplify workflows  
-- 📊 Exploring data-driven applications and AI integrations  
-- 🌍 Working on open-source projects to give back to the community  
-
+- Building the biggest supply chain across nigera that manages around 100K outlets  
+- Building AI workflows to optimize business workflows
+- Building open source accounting service that would transform transactions into double entries
+- Building open source BNPL Service
 ---
 
 ## For content
