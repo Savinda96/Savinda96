@@ -2,15 +2,11 @@
 
 I’m a software engineer passionate about building simple, scalable, and impactful solutions.
 
----
-
 ## About Me
 - 💻 Experienced in backend and frontend development  
 - 🛠 Skilled in designing APIs, databases, and distributed systems  
 - 🌱 Constantly learning and exploring new technologies  
 - 🤝 Enjoy mentoring, collaboration, and problem-solving  
-
----
 
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript&logoColor=F7DF1E)
@@ -28,7 +24,6 @@ I’m a software engineer passionate about building simple, scalable, and impact
 - Building AI workflows to optimize business workflows
 - Building open source accounting service that would transform transactions into double entries
 - Building open source BNPL Service
----
 
 ## For content
 - [Substack](https://substack.com/@prageeth)  
